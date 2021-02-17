@@ -1,141 +1,141 @@
 <?xml version="1.0" encoding="utf-8"?>
   <feed xmlns="http://www.w3.org/2005/Atom">
     <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
-    <link href="https://maxvoltar.photo/feed.xml" rel="self" type="application/atom+xml" />
-    <link href="https://maxvoltar.photo/" rel="alternate" type="text/html"/>
-    <updated>2021-02-17T14:50:33+05:30</updated>
-    <id>2021-02-17T14:50:33+05:30</id>
-    <title type="html">maxvoltar.photo</title>
-    <subtitle>@maxvoltar's minimalistic, self-hosted photo stream.</subtitle>
+    <link href="https://ultrasmall.github.io/feed.xml" rel="self" type="application/atom+xml" />
+    <link href="https://ultrasmall.github.io/" rel="alternate" type="text/html"/>
+    <updated>2021-02-17T15:17:07+05:30</updated>
+    <id>2021-02-17T15:17:07+05:30</id>
+    <title type="html">Pratik Nilange</title>
+    <subtitle>Nope</subtitle>
     <author>
-      <name>Tim Van Damme</name>
-      <email>tim@maxvoltar.be</email>
-      <uri>https://maxvoltar.com</uri>
+      <name>Pratik Nilange</name>
+      <email>pratik.nilange@gmail.com</email>
+      <uri>https://ultrasmall.github.io/psweb/</uri>
     </author>
     <entry>
       <title type="html">4</title>
-      <link href="https://maxvoltar.photo/4/" rel="alternate" type="text/html" title="4" />
+      <link href="https://ultrasmall.github.io/4/" rel="alternate" type="text/html" title="4" />
       <published>2020-02-03T13:30:09+05:30</published>
       <updated>2020-02-03T13:30:09+05:30</updated>
-      <id>https://maxvoltar.photo//4/</id>
+      <id>https://ultrasmall.github.io//4/</id>
       <content type="html">
-        <![CDATA[<figure><a href="https://maxvoltar.photo/4/"><img src="https://maxvoltar.photo//photos/large/4-686656.jpg" alt="4" /></a></figure>
+        <![CDATA[<figure><a href="https://ultrasmall.github.io/4/"><img src="https://ultrasmall.github.io//psweb/photos/large/4-686656.jpg" alt="4" /></a></figure>
       ]]>
     </content>
     <author>
-      <name>Tim Van Damme</name>
-      <email>tim@maxvoltar.be</email>
-      <uri>https://maxvoltar.com</uri>
+      <name>Pratik Nilange</name>
+      <email>pratik.nilange@gmail.com</email>
+      <uri>https://ultrasmall.github.io/psweb/</uri>
     </author>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/4-686656.jpg" />
-      <media:content medium="image" url="https://maxvoltar.photo//photos/large/4-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ultrasmall.github.io//psweb/photos/large/4-686656.jpg" />
+      <media:content medium="image" url="https://ultrasmall.github.io//psweb/photos/large/4-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
         <title type="html">2</title>
-        <link href="https://maxvoltar.photo/2/" rel="alternate" type="text/html" title="2" />
+        <link href="https://ultrasmall.github.io/2/" rel="alternate" type="text/html" title="2" />
         <published>2019-10-20T17:44:35+05:30</published>
         <updated>2019-10-20T17:44:35+05:30</updated>
-        <id>https://maxvoltar.photo//2/</id>
+        <id>https://ultrasmall.github.io//2/</id>
         <content type="html">
-          <![CDATA[<figure><a href="https://maxvoltar.photo/2/"><img src="https://maxvoltar.photo//photos/large/2-686656.jpg" alt="2" /></a></figure>
+          <![CDATA[<figure><a href="https://ultrasmall.github.io/2/"><img src="https://ultrasmall.github.io//psweb/photos/large/2-686656.jpg" alt="2" /></a></figure>
         ]]>
       </content>
       <author>
-        <name>Tim Van Damme</name>
-        <email>tim@maxvoltar.be</email>
-        <uri>https://maxvoltar.com</uri>
+        <name>Pratik Nilange</name>
+        <email>pratik.nilange@gmail.com</email>
+        <uri>https://ultrasmall.github.io/psweb/</uri>
       </author>
-      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/2-686656.jpg" />
-        <media:content medium="image" url="https://maxvoltar.photo//photos/large/2-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ultrasmall.github.io//psweb/photos/large/2-686656.jpg" />
+        <media:content medium="image" url="https://ultrasmall.github.io//psweb/photos/large/2-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
         <entry>
           <title type="html">6</title>
-          <link href="https://maxvoltar.photo/6/" rel="alternate" type="text/html" title="6" />
+          <link href="https://ultrasmall.github.io/6/" rel="alternate" type="text/html" title="6" />
           <published>2019-09-21T18:02:39+05:30</published>
           <updated>2019-09-21T18:02:39+05:30</updated>
-          <id>https://maxvoltar.photo//6/</id>
+          <id>https://ultrasmall.github.io//6/</id>
           <content type="html">
-            <![CDATA[<figure><a href="https://maxvoltar.photo/6/"><img src="https://maxvoltar.photo//photos/large/6-686656.jpg" alt="6" /></a></figure>
+            <![CDATA[<figure><a href="https://ultrasmall.github.io/6/"><img src="https://ultrasmall.github.io//psweb/photos/large/6-686656.jpg" alt="6" /></a></figure>
           ]]>
         </content>
         <author>
-          <name>Tim Van Damme</name>
-          <email>tim@maxvoltar.be</email>
-          <uri>https://maxvoltar.com</uri>
+          <name>Pratik Nilange</name>
+          <email>pratik.nilange@gmail.com</email>
+          <uri>https://ultrasmall.github.io/psweb/</uri>
         </author>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/6-686656.jpg" />
-          <media:content medium="image" url="https://maxvoltar.photo//photos/large/6-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ultrasmall.github.io//psweb/photos/large/6-686656.jpg" />
+          <media:content medium="image" url="https://ultrasmall.github.io//psweb/photos/large/6-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
           </entry>
           <entry>
             <title type="html">5</title>
-            <link href="https://maxvoltar.photo/5/" rel="alternate" type="text/html" title="5" />
+            <link href="https://ultrasmall.github.io/5/" rel="alternate" type="text/html" title="5" />
             <published>2019-09-21T18:02:27+05:30</published>
             <updated>2019-09-21T18:02:27+05:30</updated>
-            <id>https://maxvoltar.photo//5/</id>
+            <id>https://ultrasmall.github.io//5/</id>
             <content type="html">
-              <![CDATA[<figure><a href="https://maxvoltar.photo/5/"><img src="https://maxvoltar.photo//photos/large/5-686656.jpg" alt="5" /></a></figure>
+              <![CDATA[<figure><a href="https://ultrasmall.github.io/5/"><img src="https://ultrasmall.github.io//psweb/photos/large/5-686656.jpg" alt="5" /></a></figure>
             ]]>
           </content>
           <author>
-            <name>Tim Van Damme</name>
-            <email>tim@maxvoltar.be</email>
-            <uri>https://maxvoltar.com</uri>
+            <name>Pratik Nilange</name>
+            <email>pratik.nilange@gmail.com</email>
+            <uri>https://ultrasmall.github.io/psweb/</uri>
           </author>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/5-686656.jpg" />
-            <media:content medium="image" url="https://maxvoltar.photo//photos/large/5-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ultrasmall.github.io//psweb/photos/large/5-686656.jpg" />
+            <media:content medium="image" url="https://ultrasmall.github.io//psweb/photos/large/5-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
             </entry>
             <entry>
               <title type="html">1</title>
-              <link href="https://maxvoltar.photo/1/" rel="alternate" type="text/html" title="1" />
+              <link href="https://ultrasmall.github.io/1/" rel="alternate" type="text/html" title="1" />
               <published>2019-09-12T13:27:17+05:30</published>
               <updated>2019-09-12T13:27:17+05:30</updated>
-              <id>https://maxvoltar.photo//1/</id>
+              <id>https://ultrasmall.github.io//1/</id>
               <content type="html">
-                <![CDATA[<figure><a href="https://maxvoltar.photo/1/"><img src="https://maxvoltar.photo//photos/large/1-686656.jpg" alt="1" /></a></figure>
+                <![CDATA[<figure><a href="https://ultrasmall.github.io/1/"><img src="https://ultrasmall.github.io//psweb/photos/large/1-686656.jpg" alt="1" /></a></figure>
               ]]>
             </content>
             <author>
-              <name>Tim Van Damme</name>
-              <email>tim@maxvoltar.be</email>
-              <uri>https://maxvoltar.com</uri>
+              <name>Pratik Nilange</name>
+              <email>pratik.nilange@gmail.com</email>
+              <uri>https://ultrasmall.github.io/psweb/</uri>
             </author>
-            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/1-686656.jpg" />
-              <media:content medium="image" url="https://maxvoltar.photo//photos/large/1-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ultrasmall.github.io//psweb/photos/large/1-686656.jpg" />
+              <media:content medium="image" url="https://ultrasmall.github.io//psweb/photos/large/1-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
               </entry>
               <entry>
                 <title type="html">3</title>
-                <link href="https://maxvoltar.photo/3/" rel="alternate" type="text/html" title="3" />
+                <link href="https://ultrasmall.github.io/3/" rel="alternate" type="text/html" title="3" />
                 <published>2019-09-12T13:24:06+05:30</published>
                 <updated>2019-09-12T13:24:06+05:30</updated>
-                <id>https://maxvoltar.photo//3/</id>
+                <id>https://ultrasmall.github.io//3/</id>
                 <content type="html">
-                  <![CDATA[<figure><a href="https://maxvoltar.photo/3/"><img src="https://maxvoltar.photo//photos/large/3-686656.jpg" alt="3" /></a></figure>
+                  <![CDATA[<figure><a href="https://ultrasmall.github.io/3/"><img src="https://ultrasmall.github.io//psweb/photos/large/3-686656.jpg" alt="3" /></a></figure>
                 ]]>
               </content>
               <author>
-                <name>Tim Van Damme</name>
-                <email>tim@maxvoltar.be</email>
-                <uri>https://maxvoltar.com</uri>
+                <name>Pratik Nilange</name>
+                <email>pratik.nilange@gmail.com</email>
+                <uri>https://ultrasmall.github.io/psweb/</uri>
               </author>
-              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/3-686656.jpg" />
-                <media:content medium="image" url="https://maxvoltar.photo//photos/large/3-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ultrasmall.github.io//psweb/photos/large/3-686656.jpg" />
+                <media:content medium="image" url="https://ultrasmall.github.io//psweb/photos/large/3-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                 </entry>
                 <entry>
                   <title type="html">7</title>
-                  <link href="https://maxvoltar.photo/7/" rel="alternate" type="text/html" title="7" />
+                  <link href="https://ultrasmall.github.io/7/" rel="alternate" type="text/html" title="7" />
                   <published>2019-09-08T00:35:04+05:30</published>
                   <updated>2019-09-08T00:35:04+05:30</updated>
-                  <id>https://maxvoltar.photo//7/</id>
+                  <id>https://ultrasmall.github.io//7/</id>
                   <content type="html">
-                    <![CDATA[<figure><a href="https://maxvoltar.photo/7/"><img src="https://maxvoltar.photo//photos/large/7-686656.jpg" alt="7" /></a></figure>
+                    <![CDATA[<figure><a href="https://ultrasmall.github.io/7/"><img src="https://ultrasmall.github.io//psweb/photos/large/7-686656.jpg" alt="7" /></a></figure>
                   ]]>
                 </content>
                 <author>
-                  <name>Tim Van Damme</name>
-                  <email>tim@maxvoltar.be</email>
-                  <uri>https://maxvoltar.com</uri>
+                  <name>Pratik Nilange</name>
+                  <email>pratik.nilange@gmail.com</email>
+                  <uri>https://ultrasmall.github.io/psweb/</uri>
                 </author>
-                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/7-686656.jpg" />
-                  <media:content medium="image" url="https://maxvoltar.photo//photos/large/7-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ultrasmall.github.io//psweb/photos/large/7-686656.jpg" />
+                  <media:content medium="image" url="https://ultrasmall.github.io//psweb/photos/large/7-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                   </entry>
                 </feed>
