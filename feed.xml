@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
   <feed xmlns="http://www.w3.org/2005/Atom">
     <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
-    <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml" />
-    <link href="http://localhost:4000" rel="alternate" type="text/html"/>
-    <updated>2021-02-17T13:26:11+05:30</updated>
-    <id>2021-02-17T13:26:11+05:30</id>
+    <link href="https://maxvoltar.photo/feed.xml" rel="self" type="application/atom+xml" />
+    <link href="https://maxvoltar.photo/" rel="alternate" type="text/html"/>
+    <updated>2021-02-17T13:47:17+05:30</updated>
+    <id>2021-02-17T13:47:17+05:30</id>
     <title type="html">maxvoltar.photo</title>
     <subtitle>@maxvoltar's minimalistic, self-hosted photo stream.</subtitle>
     <author>
@@ -14,12 +14,12 @@
     </author>
     <entry>
       <title type="html">Angled Landscape</title>
-      <link href="http://localhost:4000angled-landscape/" rel="alternate" type="text/html" title="Angled Landscape" />
+      <link href="https://maxvoltar.photo/angled-landscape/" rel="alternate" type="text/html" title="Angled Landscape" />
       <published>2020-02-03T13:30:09+05:30</published>
       <updated>2020-02-03T13:30:09+05:30</updated>
-      <id>http://localhost:4000/angled-landscape/</id>
+      <id>https://maxvoltar.photo//angled-landscape/</id>
       <content type="html">
-        <![CDATA[<figure><a href="http://localhost:4000angled-landscape/"><img src="http://localhost:4000/photos/large/Angled+Landscape-686656.jpg" alt="Angled Landscape" /></a></figure>
+        <![CDATA[<figure><a href="https://maxvoltar.photo/angled-landscape/"><img src="https://maxvoltar.photo//photos/large/Angled+Landscape-686656.jpg" alt="Angled Landscape" /></a></figure>
       ]]>
     </content>
     <author>
@@ -27,17 +27,17 @@
       <email>tim@maxvoltar.be</email>
       <uri>https://maxvoltar.com</uri>
     </author>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Angled+Landscape-686656.jpg" />
-      <media:content medium="image" url="http://localhost:4000/photos/large/Angled+Landscape-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/Angled+Landscape-686656.jpg" />
+      <media:content medium="image" url="https://maxvoltar.photo//photos/large/Angled+Landscape-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
         <title type="html">Almost Due</title>
-        <link href="http://localhost:4000almost-due/" rel="alternate" type="text/html" title="Almost Due" />
+        <link href="https://maxvoltar.photo/almost-due/" rel="alternate" type="text/html" title="Almost Due" />
         <published>2019-10-20T17:44:35+05:30</published>
         <updated>2019-10-20T17:44:35+05:30</updated>
-        <id>http://localhost:4000/almost-due/</id>
+        <id>https://maxvoltar.photo//almost-due/</id>
         <content type="html">
-          <![CDATA[<figure><a href="http://localhost:4000almost-due/"><img src="http://localhost:4000/photos/large/Almost+Due-686656.jpg" alt="Almost Due" /></a></figure>
+          <![CDATA[<figure><a href="https://maxvoltar.photo/almost-due/"><img src="https://maxvoltar.photo//photos/large/Almost+Due-686656.jpg" alt="Almost Due" /></a></figure>
         ]]>
       </content>
       <author>
@@ -45,17 +45,17 @@
         <email>tim@maxvoltar.be</email>
         <uri>https://maxvoltar.com</uri>
       </author>
-      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Almost+Due-686656.jpg" />
-        <media:content medium="image" url="http://localhost:4000/photos/large/Almost+Due-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/Almost+Due-686656.jpg" />
+        <media:content medium="image" url="https://maxvoltar.photo//photos/large/Almost+Due-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
         <entry>
           <title type="html">Apples In The Sun</title>
-          <link href="http://localhost:4000apples-in-the-sun/" rel="alternate" type="text/html" title="Apples In The Sun" />
+          <link href="https://maxvoltar.photo/apples-in-the-sun/" rel="alternate" type="text/html" title="Apples In The Sun" />
           <published>2019-09-21T18:02:39+05:30</published>
           <updated>2019-09-21T18:02:39+05:30</updated>
-          <id>http://localhost:4000/apples-in-the-sun/</id>
+          <id>https://maxvoltar.photo//apples-in-the-sun/</id>
           <content type="html">
-            <![CDATA[<figure><a href="http://localhost:4000apples-in-the-sun/"><img src="http://localhost:4000/photos/large/Apples+In+The+Sun-686656.jpg" alt="Apples In The Sun" /></a></figure>
+            <![CDATA[<figure><a href="https://maxvoltar.photo/apples-in-the-sun/"><img src="https://maxvoltar.photo//photos/large/Apples+In+The+Sun-686656.jpg" alt="Apples In The Sun" /></a></figure>
           ]]>
         </content>
         <author>
@@ -63,17 +63,17 @@
           <email>tim@maxvoltar.be</email>
           <uri>https://maxvoltar.com</uri>
         </author>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Apples+In+The+Sun-686656.jpg" />
-          <media:content medium="image" url="http://localhost:4000/photos/large/Apples+In+The+Sun-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/Apples+In+The+Sun-686656.jpg" />
+          <media:content medium="image" url="https://maxvoltar.photo//photos/large/Apples+In+The+Sun-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
           </entry>
           <entry>
             <title type="html">Apple & Child</title>
-            <link href="http://localhost:4000apple-child/" rel="alternate" type="text/html" title="Apple & Child" />
+            <link href="https://maxvoltar.photo/apple-child/" rel="alternate" type="text/html" title="Apple & Child" />
             <published>2019-09-21T18:02:27+05:30</published>
             <updated>2019-09-21T18:02:27+05:30</updated>
-            <id>http://localhost:4000/apple-child/</id>
+            <id>https://maxvoltar.photo//apple-child/</id>
             <content type="html">
-              <![CDATA[<figure><a href="http://localhost:4000apple-child/"><img src="http://localhost:4000/photos/large/Apple+&+Child-686656.jpg" alt="Apple & Child" /></a></figure>
+              <![CDATA[<figure><a href="https://maxvoltar.photo/apple-child/"><img src="https://maxvoltar.photo//photos/large/Apple+&+Child-686656.jpg" alt="Apple & Child" /></a></figure>
             ]]>
           </content>
           <author>
@@ -81,17 +81,17 @@
             <email>tim@maxvoltar.be</email>
             <uri>https://maxvoltar.com</uri>
           </author>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Apple+&+Child-686656.jpg" />
-            <media:content medium="image" url="http://localhost:4000/photos/large/Apple+&+Child-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/Apple+&+Child-686656.jpg" />
+            <media:content medium="image" url="https://maxvoltar.photo//photos/large/Apple+&+Child-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
             </entry>
             <entry>
               <title type="html">Abandoned Cube</title>
-              <link href="http://localhost:4000abandoned-cube/" rel="alternate" type="text/html" title="Abandoned Cube" />
+              <link href="https://maxvoltar.photo/abandoned-cube/" rel="alternate" type="text/html" title="Abandoned Cube" />
               <published>2019-09-12T13:27:17+05:30</published>
               <updated>2019-09-12T13:27:17+05:30</updated>
-              <id>http://localhost:4000/abandoned-cube/</id>
+              <id>https://maxvoltar.photo//abandoned-cube/</id>
               <content type="html">
-                <![CDATA[<figure><a href="http://localhost:4000abandoned-cube/"><img src="http://localhost:4000/photos/large/Abandoned+Cube-686656.jpg" alt="Abandoned Cube" /></a></figure>
+                <![CDATA[<figure><a href="https://maxvoltar.photo/abandoned-cube/"><img src="https://maxvoltar.photo//photos/large/Abandoned+Cube-686656.jpg" alt="Abandoned Cube" /></a></figure>
               ]]>
             </content>
             <author>
@@ -99,17 +99,17 @@
               <email>tim@maxvoltar.be</email>
               <uri>https://maxvoltar.com</uri>
             </author>
-            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Abandoned+Cube-686656.jpg" />
-              <media:content medium="image" url="http://localhost:4000/photos/large/Abandoned+Cube-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/Abandoned+Cube-686656.jpg" />
+              <media:content medium="image" url="https://maxvoltar.photo//photos/large/Abandoned+Cube-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
               </entry>
               <entry>
                 <title type="html">Amy Szatkowski</title>
-                <link href="http://localhost:4000amy-szatkowski/" rel="alternate" type="text/html" title="Amy Szatkowski" />
+                <link href="https://maxvoltar.photo/amy-szatkowski/" rel="alternate" type="text/html" title="Amy Szatkowski" />
                 <published>2019-09-12T13:24:06+05:30</published>
                 <updated>2019-09-12T13:24:06+05:30</updated>
-                <id>http://localhost:4000/amy-szatkowski/</id>
+                <id>https://maxvoltar.photo//amy-szatkowski/</id>
                 <content type="html">
-                  <![CDATA[<figure><a href="http://localhost:4000amy-szatkowski/"><img src="http://localhost:4000/photos/large/Amy+Szatkowski-686656.jpg" alt="Amy Szatkowski" /></a></figure>
+                  <![CDATA[<figure><a href="https://maxvoltar.photo/amy-szatkowski/"><img src="https://maxvoltar.photo//photos/large/Amy+Szatkowski-686656.jpg" alt="Amy Szatkowski" /></a></figure>
                 ]]>
               </content>
               <author>
@@ -117,17 +117,17 @@
                 <email>tim@maxvoltar.be</email>
                 <uri>https://maxvoltar.com</uri>
               </author>
-              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Amy+Szatkowski-686656.jpg" />
-                <media:content medium="image" url="http://localhost:4000/photos/large/Amy+Szatkowski-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/Amy+Szatkowski-686656.jpg" />
+                <media:content medium="image" url="https://maxvoltar.photo//photos/large/Amy+Szatkowski-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                 </entry>
                 <entry>
                   <title type="html">Attention To Lighting</title>
-                  <link href="http://localhost:4000attention-to-lighting/" rel="alternate" type="text/html" title="Attention To Lighting" />
+                  <link href="https://maxvoltar.photo/attention-to-lighting/" rel="alternate" type="text/html" title="Attention To Lighting" />
                   <published>2019-09-08T00:35:04+05:30</published>
                   <updated>2019-09-08T00:35:04+05:30</updated>
-                  <id>http://localhost:4000/attention-to-lighting/</id>
+                  <id>https://maxvoltar.photo//attention-to-lighting/</id>
                   <content type="html">
-                    <![CDATA[<figure><a href="http://localhost:4000attention-to-lighting/"><img src="http://localhost:4000/photos/large/Attention+To+Lighting-686656.jpg" alt="Attention To Lighting" /></a></figure>
+                    <![CDATA[<figure><a href="https://maxvoltar.photo/attention-to-lighting/"><img src="https://maxvoltar.photo//photos/large/Attention+To+Lighting-686656.jpg" alt="Attention To Lighting" /></a></figure>
                   ]]>
                 </content>
                 <author>
@@ -135,7 +135,7 @@
                   <email>tim@maxvoltar.be</email>
                   <uri>https://maxvoltar.com</uri>
                 </author>
-                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Attention+To+Lighting-686656.jpg" />
-                  <media:content medium="image" url="http://localhost:4000/photos/large/Attention+To+Lighting-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/Attention+To+Lighting-686656.jpg" />
+                  <media:content medium="image" url="https://maxvoltar.photo//photos/large/Attention+To+Lighting-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                   </entry>
                 </feed>
